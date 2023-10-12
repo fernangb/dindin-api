@@ -1,0 +1,5 @@
+rootProject.name = 'dindin-api'
+include 'domain'
+include 'application'
+include 'infrastructure'
+
