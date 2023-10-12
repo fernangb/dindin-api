@@ -1,5 +1,6 @@
-package com.dindin.domain;
+package com.dindin.domain.expense;
 
+import com.dindin.domain.expense.aggregates.Expense;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

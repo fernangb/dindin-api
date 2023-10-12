@@ -1,4 +1,4 @@
-package com.dindin.domain;
+package com.dindin.domain.expense.aggregates;
 
 public class Expense {
     public String id;
